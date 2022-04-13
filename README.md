@@ -1,4 +1,4 @@
-##my-php-native-project
+#my-php-native-project
 **Final project in nti scholarship, after a full month of intensive study of php**
 *The project was developed by native php.
 *It is an online chess learning site where you can register an account and then enroll to any course you want.
