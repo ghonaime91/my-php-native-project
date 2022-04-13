@@ -6,3 +6,7 @@
 * 4-The admin has a dashboard and has all the capabilities of reviewing, adding and deleting a player, coach or course.
 * 5-The coach has a mini dashboard where he can review his own courses and add and delete them.
 * 6-The player can only review the courses and enroll in them or cancel the enrollment.
+## to explore the project
+* run xampp and connect to localserver.
+* import chess-academy to mysql .
+* sign in with any email from users.txt.
